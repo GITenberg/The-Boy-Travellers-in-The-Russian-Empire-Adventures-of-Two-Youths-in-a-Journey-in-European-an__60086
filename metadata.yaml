@@ -1,0 +1,40 @@
+_repo: The-Boy-Travellers-in-The-Russian-Empire-Adventures-of-Two-Youths-in-a-Journey-in-European-an__60086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knox, Thomas Wallace
+    aliases:
+    - Knox, Thos. W.
+    - Knox, Thomas W.
+    birthdate: 1835
+    deathdate: 1896
+    gutenberg_agent_id: '5229'
+    url: http://www.gutenberg.org/2009/agents/5229
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Knox
+description: ''
+gutenberg_issued: '2019-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Rivers -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Exiles -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Russia -- History -- Juvenile fiction'
+- GITenberg
+title: "The Boy Travellers in The Russian Empire\r\nAdventures of Two Youths in a\
+  \ Journey in European and Asiatic Russia, with Accounts of a Tour across Siberia,\
+  \ Voyages on the Amoor, Volga, and Other Rivers, a Visit to Central Asia, Travels\
+  \ among the Exiles, and a Historical Sketch of the Empire from Its Foundation to\
+  \ the Present Time"
+url: http://www.gutenberg.org/ebooks/60086
